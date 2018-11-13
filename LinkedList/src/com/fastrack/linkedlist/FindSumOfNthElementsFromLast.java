@@ -1,5 +1,9 @@
 package com.fastrack.linkedlist;
 
+/**
+ * Get sum of last kth elements from given linkedList.
+ * @author Atul Wagare
+ */
 public class FindSumOfNthElementsFromLast {
 
 	private Node node;
@@ -97,7 +101,7 @@ public class FindSumOfNthElementsFromLast {
 
 	public static void main(String[] args) {
 		FindSumOfNthElementsFromLast list = new FindSumOfNthElementsFromLast();
-
+		
 		list.addNode(12);
 		list.addNode(14);
 		list.addNode(15);
