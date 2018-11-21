@@ -1,5 +1,3 @@
-package com.fastrack.linkedlist;
-
 /**
  * Get sum of last kth elements from given linkedList.
  * @author Atul Wagare
