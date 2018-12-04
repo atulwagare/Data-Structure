@@ -1,6 +1,7 @@
 # Data-Structure
 
 ## LinkedList
-- [Find sum of last kth node from end of the list] (https://github.com/atulwagare/Data-Structure/blob/master/LinkedList/src/com/fastrack/linkedlist/FindSumOfNthElementsFromLast.java)
+- Interview question related to linked list.
 
 ## Sorting 
+- Different Sorting algorithms.
