@@ -104,11 +104,11 @@ public class FindSumOfNthElementsFromLast {
 		list.addNode(14);
 		list.addNode(15);
 		list.addNode(16);
-		list.addNode(11);
 		list.addNode(56);
 		list.addNode(13);
 		list.addNode(7);
 		list.addNode(1);
+		list.addNode(50);
 		
 		list.printList();
 		System.out.println("=====================================");
